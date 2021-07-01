@@ -1,0 +1,628 @@
+{
+    "gaming-gear": [{
+            "productID": 1,
+            "productName": "APEX PRO",
+            "brand": "Steelseries",
+            "productType": "Mechanical Keyboard",
+            "price": 209.99,
+            "specifications": {
+                "switch": {
+                    "TypeName": "OmniPoint Adjustable Mechanical Switch (Analog Hall Effect Magnetic Sensor)",
+                    "ActuationPoint": "0.4mm to 3.6mm",
+                    "responseTime": "0.7ms",
+                    "Lifetime": "100 Million Keypresses"
+                },
+                "design": {
+                    "Color": "Metallic Black",
+                    "TopMaterial": "Aircraft Grade Aluminum Alloy Frame",
+                    "N-KeyRollOver": 104,
+                    "Anti-Ghosting": "100%",
+                    "Illumination": "Dynamic Per Key RGB Illumination",
+                    "Weight": 2.14,
+                    "Length": 436.7,
+                    "Width": 139.2,
+                    "Depth": 40.3
+                }
+            }
+        },
+        {
+            "productID": 2,
+            "productName": "AEROX 3",
+            "brand": "Steelseries",
+            "productType": "Gaming Mouse",
+            "price": 69.99,
+            "specifications": {
+                "sensor": {
+                    "Sensor": "SteelSeries TrueMove Core",
+                    "SensorType": "Optical",
+                    "CPI": "200–8,500 in 100 CPI Increments",
+                    "IPS": "300, on SteelSeries QcK surfaces",
+                    "Acceleration": "35G",
+                    "PollingRate": "1000 Hz / 1 ms",
+                    "HardwareAcceleration": 0
+                },
+                "design": {
+                    "Color": "Metallic Black",
+                    "BackCoverMaterial": "Black Matte Finish",
+                    "CoreConstruction": "ABS Plastic",
+                    "Shape": "Ergonomic, Right-Handed",
+                    "GripStyle": "Claw or Fingertip",
+                    "NumberOfButtons": 6,
+                    "SwitchType": "SteelSeries mechanical switches rated for 80 million clicks",
+                    "Illumination": "3 RGB Zones, Independently Controlled",
+                    "Weight": 57,
+                    "Height": 21.53,
+                    "Width": 57.91,
+                    "Length": 120.55,
+                    "CableLength": 1.8
+                }
+            }
+        },
+        {
+            "productID": 3,
+            "productName": "QCK",
+            "brand": "Steelseries",
+            "productType": "Gaming Mousepad",
+            "price": 10.99,
+            "specifications": {
+                "SurfaceMaterial": "Micro-woven Cloth",
+                "BaseMaterial": "Silicone Rubber",
+                "AvailableSizes": "Small, Medium, Large, 3XL, 4XL, 5XL",
+                "Thickness": "2mm - 3 mm",
+                "StitchedEdges": 0,
+                "RGBIllumination": 0,
+                "Washable": 1
+            }
+        },
+        {
+            "productID": 4,
+            "productName": "ARCTIS 9X",
+            "brand": "Steelseries",
+            "productType": "Gaming Headset",
+            "price": 199.99,
+            "specifications": {
+                "speakerDrivers": {
+                    "NeodymiumDrivers": "40mm",
+                    "FrequencyResponse": "20–20000 Hz",
+                    "Sensitivity": "98 dBSPL",
+                    "Impedance": "32 Ohm",
+                    "TotalHarmonicDistortion": "< 3%",
+                    "VolumeControl": "On Ear Cup"
+                },
+                "microphone": {
+                    "FrequencyResponse": "100–10000 Hz",
+                    "Pattern": "Bidirectional",
+                    "Sensitivity": "-38 dBV/Pa",
+                    "Impedance": "2200 Ohm",
+                    "Location": "Retractable"
+                },
+                "wireless": {
+                    "Range": 6,
+                    "BatteryLife": 20,
+                    "BluetoothVersion": 4.1,
+                    "BluetoothProfiles": "A2DP, HFP, HSP"
+                }
+            }
+        },
+        {
+            "productID": 5,
+            "productName": "NIMBUS+",
+            "brand": "Steelseries",
+            "productType": "Gaming Controller",
+            "price": 79.99,
+            "specifications": {
+                "compatibility": [
+                    "iPhone",
+                    "iPod touch",
+                    "iPad",
+                    "Apple TV",
+                    "Mac"
+                ],
+                "design": {
+                    "Wireless": "Official Apple-licensed wireless connectivity",
+                    "Battery": "Lithium-ion rechargeable (50 hours)",
+                    "ConnectorType": "Lightning",
+                    "Weight": 243,
+                    "Height": 109.9,
+                    "Width": 149.9,
+                    "Depth": 63.3
+                }
+            }
+        },
+        {
+            "productID": 6,
+            "productName": "VIGOR GK50 LOW PROFILE",
+            "brand": "MSI",
+            "productType": "Mechanical Keyboard",
+            "price": 79.99,
+            "specifications": {
+                "KeySwitch": "Kailh Low Profile Switches",
+                "Interfase": "USB 2.0",
+                "NormalKeys": "104 / 105 / 109 keys (different by languages",
+                "Backlight": "Per-key RGB Mystic Light",
+                "OS": "Windows 10 / 8.1 / 8 / 7",
+                "Lifetime": "50+ Million Keypresses",
+                "Color": "Metallic Black",
+                "CableLength": 1.8,
+                "N-KeyRollOver": "104 / 105 / 109 keys",
+                "Anti-Ghosting": "100%",
+                "Weight": 700,
+                "Length": 435,
+                "Width": 141,
+                "Depth": 34
+            }
+        },
+        {
+            "productID": 7,
+            "productName": "CLUTCH GM41 LIGHTWEIGHT",
+            "brand": "MSI",
+            "productType": "Gaming Mouse",
+            "price": 72.99,
+            "specifications": {
+                "Sensor": "PixArt PMW-3389 Optical Sensor",
+                "DPISwitch": "400 / 800 / 1600 / 3200 / 6400",
+                "Interface": "USB 2.0",
+                "Button": "6",
+                "PollingRate": "1000 Hz / 1 ms",
+                "MainKeySwitches": "OMRON 60M",
+                "LEDLight": "RGB",
+                "OS": "Windows 10 / 8.1 / 8 / 7",
+                "ButtonDurability": "60 Million Clicks",
+                "Cable": "Low Friction Cable",
+                "MaxDPI": 16000,
+                "Weight": 65,
+                "CableLength": 2,
+                "NVDIAReflexSupport": 1
+            }
+        },
+        {
+            "productID": 8,
+            "productName": "FORCE GC30",
+            "brand": "MSI",
+            "productType": "Gaming Mousepad",
+            "price": 34.99,
+            "specifications": {
+                "Surface": "Silk Gaming Fabric Surface",
+                "Base": "Natural Rubber Base",
+                "Color": "Dark Gray",
+                "Weight": 640,
+                "Length": 900,
+                "Width": 400,
+                "Depth": 3
+            }
+        },
+        {
+            "productID": 9,
+            "productName": "IMMERSE GH50",
+            "brand": "MSI",
+            "productType": "Gaming Headset",
+            "price": 69.99,
+            "specifications": {
+                "Connector": "2.0 USB",
+                "DriverUnit": "40mm Neodymium",
+                "SpeakerFrequencyResponse": "20–20000 Hz",
+                "Sensitivity": "109 dB ± 3 dB",
+                "Impedance": "32 ohm ± 15%",
+                "MicFrequencyResponse": "100–10000 Hz",
+                "Pattern": "Unidirectional",
+                "MicSensitivity": "-36 dB ± 3 dB",
+                "MicImpedance": "2200 Ohm",
+                "MicDimension": "Ø6.0",
+                "OS": "Windows 10 / 8.1 / 8 / 7",
+                "Weight": 300,
+                "Length": 170,
+                "Width": 80,
+                "Depth": 200
+            }
+        },
+        {
+            "productID": 10,
+            "productName": "FORCE GC30",
+            "brand": "MSI",
+            "productType": "Gaming Controller",
+            "price": 49.99,
+            "specifications": {
+                "Interfase": "USB 2.0",
+                "OS": "Windows 10/8.1/7, Android 4.1 above",
+                "Battery": "600 mAh lithium battery, lasting 8 hours usage",
+                "Color": "Shiny Black",
+                "Accessories": "Additional D-PAD CoverWireless dongle",
+                "CableLength": 2,
+                "Weight": 214,
+                "Length": 156,
+                "Width": 141,
+                "Depth": 62.5
+            }
+        },
+        {
+            "productID": 11,
+            "productName": "FIFINE K669B",
+            "brand": "FIFINE",
+            "productType": "Microphone",
+            "price": 32.99,
+            "specifications": {
+                "Type": "Condenser",
+                "PolarPattern": "Cardioid",
+                "FrequencyResponse": "20-20kHz",
+                "Sensitivity": "-34d±30% (at 1kHz)",
+                "SNRatio": "78dB",
+                "BitRate": "16 bit",
+                "SampleRate": "48kHz",
+                "PowerSupply": "5V USB power",
+                "OutputConnection": "USB 2.0",
+                "Weight": 550
+            }
+        },
+        {
+            "productID": 12,
+            "productName": "FIFINE K678",
+            "brand": "FIFINE",
+            "productType": "Microphone",
+            "price": 59.99,
+            "specifications": {
+                "Type": "Condenser",
+                "PolarPattern": "Cardioid",
+                "FrequencyResponse": "40-20kHz",
+                "Sensitivity": "-45d±3dB",
+                "SNRatio": "85dB",
+                "BitRate": "16 bit",
+                "SampleRate": "48kHz",
+                "PowerSupply": "5V/80mA USB power",
+                "OutputConnection": "USB 2.0",
+                "Weight": 1300
+            }
+        },
+        {
+            "productID": 13,
+            "productName": "FIFINE K670/670B",
+            "brand": "FIFINE",
+            "productType": "Microphone",
+            "price": 39.99,
+            "specifications": {
+                "Type": "Condenser",
+                "PolarPattern": "Cardioid",
+                "FrequencyResponse": "50-15kHz",
+                "Sensitivity": "-46±3dB (at 1kHz)",
+                "SNRatio": "66dB",
+                "PowerSupply": "5V USB power",
+                "OutputConnection": "USB 2.0",
+                "Weight": 1000
+            }
+        },
+        {
+            "productID": 14,
+            "productName": "FIFINE K690",
+            "brand": "FIFINE",
+            "productType": "Microphone",
+            "price": 89.99,
+            "specifications": {
+                "Type": "Condenser",
+                "PolarPattern": "Cardioid/Omnidirectional/Bi-directional/Stereo",
+                "FrequencyResponse": "40-20kHz",
+                "Sensitivity": "-45d±3dB",
+                "SNRatio": "65dB",
+                "BitRate": "16 bit",
+                "SampleRate": "48kHz",
+                "PowerSupply": "5V/80-150mA USB power",
+                "OutputConnection": "USB 2.0",
+                "Weight": 1300
+            }
+        },
+        {
+            "productID": 15,
+            "productName": "FIFINE K683A",
+            "brand": "FIFINE",
+            "productType": "Microphone",
+            "price": 52.99,
+            "specifications": {
+                "Type": "Condenser",
+                "PolarPattern": "Cardioid",
+                "FrequencyResponse": "50-17kHz",
+                "Sensitivity": "-43d±3dB (at 1kHz)",
+                "SNRatio": "70dB",
+                "DynamicRange": "75dB",
+                "BitRate": "24 bit",
+                "SampleRate": "192kHz",
+                "PowerSupply": "5V",
+                "OutputConnection": "USB Type-A 2.0 combo Type-C",
+                "Weight": 600
+            }
+        },
+        {
+            "productID": 16,
+            "productName": "HyperX Pulsefire Haste Gaming Mouse",
+            "brand": "HyperX",
+            "productType": "Gaming Mouse",
+            "price": 49.99,
+            "specifications": {
+                "Shape": "Symmetrical",
+                "Sensor": "Pixart PAW3335",
+                "Resolution": "Up to 16000 DPI",
+                "DPI": "400 / 800 / 1600 / 3200 DPI",
+                "Speed": "450ips",
+                "Acceleration": "40G",
+                "Buttons": 6,
+                "ButtonsSwitches": "TTC Golden Micro Dustproof Switch",
+                "ButtonsDurability": "60 million clicks",
+                "LightEffects": "Per-LED RGB lighting",
+                "OnboardMemory": "1 profile",
+                "PollingRate": "1000Hz",
+                "CableType": "HyperFlex USB Cable.",
+                "ConnectionType": "USB 2.0",
+                "Length": "124.2mm",
+                "Height": "38.2mm",
+                "Width": "66.8mm",
+                "CableLength": "1.8m",
+                "Weight": 80
+            }
+        },
+        {
+            "productID": 17,
+            "productName": "HyperX FURY Ultra - Gaming Mouse Pad",
+            "brand": "HyperX",
+            "productType": "Gaming Mousepad",
+            "price": 44.99,
+            "specifications": {
+                "LightEffects": "Per-LED RGB lighting",
+                "CableType": "Braided",
+                "Thickness": "5.0mm",
+                "Material": "Plastic",
+                "Weight": 580,
+                "Length": "299.4mm",
+                "Width": "359.4mm",
+                "Cable length": "1.8m"
+            }
+        },
+        {
+            "productID": 18,
+            "productName": "HyperX Cloud Earbuds",
+            "brand": "HyperX",
+            "productType": "Gaming Earbuds",
+            "price": 39.99,
+            "specifications": {
+                "Headphone": {
+                    "Driver": "Dynamic 14mm with neodymium magnets",
+                    "FrequencyResponse": "20Hz–20,000Hz",
+                    "Impedance": "65 Ω",
+                    "SoundPressure": "116dBSPL/mW at 1kHz",
+                    "Weight": 19,
+                    "Cable": "4 pole, 1.2m"
+                },
+                "Microphone": {
+                    "Element": "Electret condenser microphone",
+                    "Pattern": "Omni-directional",
+                    "FrequencyResponse": "100Hz-6,300 Hz",
+                    "Sensitivity": "-42dBV (0dB=1V/Pa,1kHz)"
+                }
+            }
+        },
+        {
+            "productID": 19,
+            "productName": "HyperX FURY S Pro Gaming Mouse Pad",
+            "brand": "HyperX",
+            "productType": "Gaming Mousepad",
+            "price": 29.99,
+            "specifications": {
+                "Size": "SM, M, L, XL",
+                "Thickness": "3-4mm",
+                "Material": "Cloth, rubber",
+                "WidthLength": {
+                    "SM": "290mm x 240mm",
+                    "M": "360mm x 300mm",
+                    "L": "450mm x 400mm",
+                    "XL": "900mm x 420mm"
+                }
+            }
+        },
+        {
+            "productID": 20,
+            "productName": "HyperX Cloud Gaming Headset",
+            "brand": "HyperX",
+            "productType": "Gaming Headset",
+            "price": 79.99,
+            "specifications": {
+                "Headphone": {
+                    "Driver": "Dynamic, 53mm with neodymium magnets",
+                    "FrequencyResponse": "15Hz–20kHz",
+                    "Impedance": "60 Ω",
+                    "SoundPressure": "104dBSPL/mW at 1kHz",
+                    "Weight": 300,
+                    "Cable": "USB charge cable (0.5m)",
+                    "BatteryLife": "30 hours",
+                    "WirelessRange": "2.4 GHz Up to 20 meters"
+                },
+                "Microphone": {
+                    "Element": "Electret condenser microphone",
+                    "Pattern": "Bi-directional, Noise-cancelling",
+                    "FrequencyResponse": "50Hz-6.8kHz",
+                    "Sensitivity": "-20dBV (1V/Pa at 1kHz)"
+                }
+            }
+        },
+        {
+            "productID": 21,
+            "productName": "RAZER BLACKWIDOW V3 MINI HYPERSPEED",
+            "brand": "Razer",
+            "productType": "Mechanical Keyboard",
+            "price": 179.99,
+            "specifications": {
+                "KeySwitch": "Razer Green Mechanical Switch",
+                "Interfase": "Bluetooth or USB-C",
+                "NormalKeys": "67 keys",
+                "Backlight": "Razer Chroma RGB customizable backlighting with 16.8 million color options",
+                "OS": "Windows 10 / 8.1 / 8 / 7",
+                "Lifetime": "80+ Million Keypresses",
+                "Color": "Metallic Black",
+                "N-KeyRollOver": "67 keys",
+                "Anti-Ghosting": "100%",
+                "Size": "65%",
+                "Keycaps": "Doubleshot ABS"
+            }
+        },
+        {
+            "productID": 22,
+            "productName": "Razer Orochi V2",
+            "brand": "Razer",
+            "productType": "Gaming Mouse",
+            "price": 69.99,
+            "specifications": {
+                "FormFactor": "Symmetrical right-handed",
+                "Connectivity": "Dual-mode wireless (2.4GHz and BLE)",
+                "BattertLife": "Up to 425 hours (2.4Ghz), 950 hours (BLE) with included Lithium AA battery",
+                "Sensor": "Optical",
+                "MaxDPI": "18000",
+                "SwitchType": "2nd-gen Razer™ Mechanical Mouse Switches",
+                "SwitchLifeCycle": "60 Million Clicks",
+                "Weight": 60,
+                "Length": 108,
+                "Width": 60,
+                "Height": 28
+            }
+        },
+        {
+            "productID": 23,
+            "productName": "Razer Gigantus V2",
+            "brand": "Razer",
+            "productType": "Gaming Mousepad",
+            "price": 29.99,
+            "specifications": {
+                "Size": "M, L, XXL, 3XL",
+                "Thickness": "3-4mm",
+                "Material": "Micro-Weave Cloth",
+                "WidthLength": {
+                    "M": "360mm x 275mm",
+                    "L": "450mm x 400mm",
+                    "XXL": "940mm x 410mm",
+                    "3XL": "1200mm x 550mm"
+                }
+            }
+        },
+        {
+            "productID": 24,
+            "productName": "Razer BlackShark V2 Special Edition",
+            "brand": "Razer",
+            "productType": "Gaming Headset",
+            "price": 109.99,
+            "specifications": {
+                "Driver": "RAZER TRIFORCE TITANIUM 50MM DRIVERS",
+                "FrequencyResponse": "20Hz–20,000Hz",
+                "Impedance": "65 Ω",
+                "SoundPressure": "116dBSPL/mW at 1kHz",
+                "Weight": 262,
+                "Microphone": "Razer HyperClear Cardioid Mic",
+                "Cable": "Razer™ SpeedFlex Cable"
+            }
+        },
+        {
+            "productID": 25,
+            "productName": "Razer Wolverine Tournament Edition",
+            "brand": "Razer",
+            "productType": "Gaming Controller",
+            "price": 119.99,
+            "specifications": {
+                "compatibility": [
+                    "PC",
+                    "iMac",
+                    "Xbox",
+                    "Playstation"
+                ],
+                "design": {
+                    "Cable": "Detachable 10 ft / 3 m lightweight braided fiber cable with Micro - USB connector",
+                    "Weight": 256,
+                    "Length": 106,
+                    "Width": 155,
+                    "Height": 66
+                }
+            }
+        },
+        {
+            "productID": 26,
+            "productName": "Logitech G Pro Keyboard",
+            "brand": "Logitech",
+            "productType": "Mechanical Keyboard",
+            "price": 129.99,
+            "specifications": {
+                "KeySwitch": "GX Blue Mechanical Switch",
+                "Interface": "USB-C",
+                "NormalKeys": "87 keys",
+                "Backlight": "LIGHTSYNC RGB lighting",
+                "OS": "Windows 10 / 8.1 / 8 / 7",
+                "Color": "Metallic Black",
+                "N-KeyRollOver": "87 keys",
+                "Anti-Ghosting": "100%",
+                "Size": "TKL",
+                "Keycaps": "Doubleshot ABS"
+            }
+        },
+        {
+            "productID": 27,
+            "productName": "G305 LIGHTSPEED WIRELESS GAMING MOUSE",
+            "brand": "Logitech",
+            "productType": "Gaming Mouse",
+            "price": 59.99,
+            "specifications": {
+                "FormFactor": "Symmetrical right-handed",
+                "Connectivity": "Dual-mode wireless (2.4GHz and BLE) and USB-C",
+                "BattertLife": "Up to 250 hours",
+                "Sensor": "HERO",
+                "MaxDPI": "12000",
+                "SwitchType": "Mechanical Button Tensioning System",
+                "SwitchLifeCycle": "60 Million Clicks",
+                "Weight": 99,
+                "Length": 116.6,
+                "Width": 62.15,
+                "Height": 38.2
+            }
+        },
+        {
+            "productID": 28,
+            "productName": "G640",
+            "brand": "Logitech",
+            "productType": "Gaming Mousepad",
+            "price": 39.99,
+            "specifications": {
+                "Size": "L",
+                "Thickness": "3mm",
+                "Material": "Rubber Base Cloth",
+                "WidthLength": "460x400mm"
+            }
+        },
+        {
+            "productID": 29,
+            "productName": "G335 WIRED GAMING HEADSET",
+            "brand": "Logitech",
+            "productType": "Gaming Headset",
+            "price": 69.99,
+            "specifications": {
+                "Driver": "40mm",
+                "FrequencyResponse": "100Hz–10,000Hz",
+                "Impedance": "36 Ω",
+                "SoundPressure": "116dBSPL/mW at 1kHz",
+                "Weight": 240,
+                "Microphone": "Cardioid"
+            }
+        },
+        {
+            "productID": 30,
+            "productName": "F310",
+            "brand": "Logitech",
+            "productType": "Gaming Controller",
+            "price": 19.99,
+            "specifications": {
+                "compatibility": [
+                    "PC",
+                    "iMac",
+                    "Xbox",
+                    "Playstation"
+                ],
+                "design": {
+                    "Cable": "1.8m USB connector",
+                    "Weight": 266,
+                    "Length": 110,
+                    "Width": 150,
+                    "Height": 66
+                }
+            }
+        }
+    ]
+}
